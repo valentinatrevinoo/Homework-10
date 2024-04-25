@@ -1,0 +1,23 @@
+---
+title: "Homework 10"
+author: "Valentina Trevino"
+date: "2024-04-24"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+library(tidyverse)
+library(knitr)
+library(tibble)
+library(dplyr)
+library(kableExtra)
+library(mosaic)
+library(minpack.lm)
+```
+
+```{r warning=FALSE, echo=FALSE, message=FALSE}
+
+```
+
